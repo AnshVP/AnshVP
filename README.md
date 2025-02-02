@@ -8,29 +8,31 @@
 
 👨‍💻 BTech CSE @ LJ Institute of Engineering And Technology
 
-Work Experience: 8 months Academic Internship @ CCL, IIT Gandhinagar 
+Work Experience: 8 months Academic Internship @ <b>CCL, IIT Gandhinagar</b> 
 
 
 <h4>Notable Academic Projects</h4>
 
-- 🎨 Algorithmic String Art – Computationally woven RGB portraits [Poster](https://drive.google.com/file/d/1v-t8FzJW3TD6g67ddFU2JrBjxT1_kd8X/view?usp=drive_link)
+- 🎨 <b>Algorithmic String Art</b> – Computationally woven RGB portraits [Poster](https://drive.google.com/file/d/1v-t8FzJW3TD6g67ddFU2JrBjxT1_kd8X/view?usp=drive_link)
 
-- 🧩 Dual-Sided Rubik's Cube Algorithm – Designed and Implemented a 625 Rubik's Cube Mosaic [https://youtube.com/shorts/B5ngOKZamgc?si=Xk7cYG-Q71S__-m2](https://youtube.com/shorts/B5ngOKZamgc?si=Xk7cYG-Q71S__-m2)
+- 🧩 <b>Dual-Sided Rubik's Cube Algorithm</b> – Designed and Implemented a 625 Rubik's Cube Mosaic [https://youtube.com/shorts/B5ngOKZamgc?si=Xk7cYG-Q71S__-m2](https://youtube.com/shorts/B5ngOKZamgc?si=Xk7cYG-Q71S__-m2)
 
-- 📱 Social Media App – MERN Stack WebApp [Demo Video](https://drive.google.com/file/d/175i8kYorhSr2yacckIa_aBVd-ZnSW-hB/view?usp=drive_link)
+- 📱 <b>Social Media App</b> – MERN Stack WebApp [Demo Video](https://drive.google.com/file/d/175i8kYorhSr2yacckIa_aBVd-ZnSW-hB/view?usp=drive_link)
 
-- 🕹️ IoT-Based Cylindrical Tetris Game – Merging IoT & Classic Gaming [Demo Video](https://drive.google.com/file/d/1Um1zX5qreutxvSVlzahyCMRvUPcfdHTR/view?usp=drive_link)
+- 🕹️ <b>IoT-Based Cylindrical Tetris Game</b> – Merging IoT & Classic Gaming [Demo Video](https://drive.google.com/file/d/1Um1zX5qreutxvSVlzahyCMRvUPcfdHTR/view?usp=drive_link)
 
-- 🚀 GalaxyDefender Game – A Java-based space shooter game [Demo Video](https://drive.google.com/file/d/16NUu9unLOx5amGvKh8gciNcfMSmVc1YM/view?usp=drive_link)
+- 🚀 <b>GalaxyDefender Game</b> – A Java-based space shooter game [Demo Video](https://drive.google.com/file/d/16NUu9unLOx5amGvKh8gciNcfMSmVc1YM/view?usp=drive_link)
+
+- 🏨 <b>Hotel WebPage</b> - [https://anshvp.github.io/Hotel/](https://anshvp.github.io/Hotel/)
 
 
 <h4>Achievements</h4>
 
-- 🎉 Project "Colored Images by Algorithmically Weaving RGB Strings" selected at CMSC 2024, Germany 🇩🇪. [Tool link](https://stringart.streamlit.app/)
+- 🎉 Project <b>"Colored Images by Algorithmically Weaving RGB Strings"</b> selected at CMSC 2024, Germany 🇩🇪. [Tool link](https://stringart.streamlit.app/)
 
-- 🎉 Project "Dual Sided Rubiks Cube" selected at The World's Biggest MathArt Conference, Bridges 2024 held at Virginia, USA. [Tool link](https://dualsidedrubikscube.streamlit.app/)
+- 🎉 Project <b>"Dual Sided Rubiks Cube"</b> selected at The World's Biggest MathArt Conference, Bridges 2024 held at Virginia, USA. [Tool link](https://dualsidedrubikscube.streamlit.app/)
 
-🌟 Collaborated with 1200 students at IIT Delhi to create mathematically-driven unique exhibits, including the record-breaking Dual-Sided Rubik's Cube Portrait.
+🌟 Collaborated with 1200 students at <b>IIT Delhi</b> to create mathematically-driven unique exhibits, including the record-breaking Dual-Sided Rubik's Cube Portrait.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
