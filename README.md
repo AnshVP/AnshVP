@@ -1,17 +1,40 @@
+![logo](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/de0dib6-0d584820-45d9-49c8-a54d-a33b98ac8372.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGUwZGliNi0wZDU4NDgyMC00NWQ5LTQ5YzgtYTU0ZC1hMzNiOThhYzgzNzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oIKwFOK9Aqd8E2YOv8KDWQoSyNhyM_7E6T34Td20ZKE)
 <h1 align="center">Hi 👋, I'm Ansh Panchal</h1>
 <h3 align="center">🚀 Exploring Code, Creativity & AI</h3>
 
-- 🎉 Project "Colored Images by Algorithmically Weaving RGB Strings" selected at CMSC 2024, Germany 🇩🇪 [Tool link](https://stringart.streamlit.app/)
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif"/>
 
-- 🎉 Project "Dual Sided Rubiks Cube" selected at Bridges, The World's Biggest MathArt Conference 2024, held at Virginia, USA [Tool link](https://dualsidedrubikscube.streamlit.app/)
+<h4>Work</h4>
 
-- 🧩 Dual-Sided Rubik's Cube Algorithm – Designed and Implemented a 625 Rubik's Cube mosaic [https://youtube.com/shorts/B5ngOKZamgc?si=Xk7cYG-Q71S__-m2](https://youtube.com/shorts/B5ngOKZamgc?si=Xk7cYG-Q71S__-m2)
+👨‍💻 BTech CSE @ LJ Institute of Engineering And Technology
+
+Work Experience: 8 months Academic Internship @ CCL, IIT Gandhinagar 
+
+
+<h4>Notable Academic Projects</h4>
+
+- 🎨 Algorithmic String Art – Computationally woven RGB portraits [Poster](https://drive.google.com/file/d/1v-t8FzJW3TD6g67ddFU2JrBjxT1_kd8X/view?usp=drive_link)
+
+- 🧩 Dual-Sided Rubik's Cube Algorithm – Designed and Implemented a 625 Rubik's Cube Mosaic [https://youtube.com/shorts/B5ngOKZamgc?si=Xk7cYG-Q71S__-m2](https://youtube.com/shorts/B5ngOKZamgc?si=Xk7cYG-Q71S__-m2)
 
 - 📱 Social Media App – MERN Stack WebApp [Demo Video](https://drive.google.com/file/d/175i8kYorhSr2yacckIa_aBVd-ZnSW-hB/view?usp=drive_link)
 
+- 🕹️ IoT-Based Cylindrical Tetris Game – Merging IoT & Classic Gaming [Demo Video](https://drive.google.com/file/d/1Um1zX5qreutxvSVlzahyCMRvUPcfdHTR/view?usp=drive_link)
+
+- 🚀 GalaxyDefender Game – A Java-based space shooter game [Demo Video](https://drive.google.com/file/d/16NUu9unLOx5amGvKh8gciNcfMSmVc1YM/view?usp=drive_link)
+
+
+<h4>Achievements</h4>
+
+- 🎉 Project "Colored Images by Algorithmically Weaving RGB Strings" selected at CMSC 2024, Germany 🇩🇪. [Tool link](https://stringart.streamlit.app/)
+
+- 🎉 Project "Dual Sided Rubiks Cube" selected at The World's Biggest MathArt Conference, Bridges 2024 held at Virginia, USA. [Tool link](https://dualsidedrubikscube.streamlit.app/)
+
+🌟 Collaborated with 1200 students at IIT Delhi to create mathematically-driven unique exhibits, including the record-breaking Dual-Sided Rubik's Cube Portrait.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/ansh panchal](https://www.linkedin.com/in/ansh-panchal-25873a229?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADk9W-QBxJoCJ8sZMYDu_E6p0Jui0zZ-CWA&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BAO4rRX2ZQgyJY36ft%2FtKEA%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansh panchal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ansh-panchal-25873a229?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADk9W-QBxJoCJ8sZMYDu_E6p0Jui0zZ-CWA&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BAO4rRX2ZQgyJY36ft%2FtKEA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansh panchal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
