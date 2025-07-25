@@ -8,7 +8,7 @@
 
 👨‍💻 BTech CSE @ LJ Institute of Engineering And Technology
 
-Work Experience: 8 months Academic Internship @ <b>CCL, IIT Gandhinagar</b> 
+Work Experience: 7 months Academic Internship @ <b>CCL, IIT Gandhinagar</b> 
 
 
 <h4>Notable Academic Projects</h4>
@@ -32,7 +32,7 @@ Work Experience: 8 months Academic Internship @ <b>CCL, IIT Gandhinagar</b>
 
 - 🎉 Project <b>"Dual Sided Rubiks Cube"</b> selected at The World's Biggest MathArt Conference, Bridges 2024 held at Virginia, USA. [Tool link](https://dualsidedrubikscube.streamlit.app/)
 
-🌟 Collaborated with 1200 students at <b>IIT Delhi</b> to create mathematically-driven unique exhibits, including the record-breaking Dual-Sided Rubik's Cube Portrait.
+- 🎉 Project <b>"String Art"</b> selected at The World's Biggest MathArt Conference, Bridges 2025 held at TU Eindhoven, Netherlands. [Tool link](https://stringart.streamlit.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
